@@ -1,7 +1,7 @@
 _________________________________________________________________________________________________________
 GeoIP harita kısmı için https://unpkg.com/world-atlas@1.1.4/world/110m.json üzerinden dosya indirildi ve local public eklendi
 
-https://www.react-simple-maps.io/docs/geographies/ dökümantasyonu önemli detaylar oradan bakılarak ilerlendi geo harita oluşturulurken.
+Geo harita oluşturulurken https://www.react-simple-maps.io/docs/geographies/ dökümantasyonu ve farklı kaynaklar ile bakılarak ilerlendi.
 _________________________________________________________________________________________________________
 
 npm install --save chart.js react-chartjs-2 kütüphanesi ile npm install chart.js sayesinde pie , bar chartlar oluşturuluyor. https://react-chartjs-2.js.org/
